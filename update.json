@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7.0",
+  "version": "1.0.5.0",
   "downloadUrl": "https://github.com/saddamd77/my-file/releases/download/1.0.7/KUNLOCK.exe",
   "releaseNotes": "• إصلاح التمرير التلقائي بعجلة الماوس في قائمة الموديلات.\n• تحسين التجاوب والأبعاد في قسم ميديا تك وموتورولا.\n• تحسين استقرار عمليات ADB وقسم التعريب.\n• تحديثات أمنية واستقرار عام للأداة.",
   "forced": true
